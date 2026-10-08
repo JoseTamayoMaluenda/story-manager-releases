@@ -1,0 +1,9 @@
+*.pkl
+configuracion.json
+.env
+.env.*
+*.key
+*.pem
+*.zip
+_internal/
+*.exe
