@@ -17,13 +17,18 @@ Microsoft Office. La exportación mediante Word necesita Microsoft Word instalad
 
 ## Descargar
 
-[Descargar Story Manager v3.1 para Windows de 64 bits](https://github.com/JoseTamayoMaluenda/story-manager-releases/releases/download/v3.1/Story_Manager_v3.1_Portable_windows_x64.zip)
+[Descargar Story Manager v3.2 para Windows de 64 bits](https://github.com/JoseTamayoMaluenda/story-manager-releases/releases/download/v3.2/Story_Manager_v3.2_Portable_windows_x64.zip)
 
 Extrae el ZIP completo en una carpeta y abre `Story Manager.exe`.
 
-[Novedades y archivos de comprobación de la v3.1](https://github.com/JoseTamayoMaluenda/story-manager-releases/releases/tag/v3.1)
+[Novedades y archivos de comprobación de la v3.2](https://github.com/JoseTamayoMaluenda/story-manager-releases/releases/tag/v3.2)
 
-Para actualizar una copia existente, guarda la historia y cierra el programa.
-Sustituye el ejecutable y `_internal`, conservando las historias `.pkl` y tu
-`configuracion.json`.
-El sistema de actualización desde la aplicación está pendiente de implementar.
+Desde la v3.2, el programa comprueba las versiones nuevas al abrirse, sin
+bloquear el trabajo. Puedes comprobarlas también desde Archivo y desactivar
+la comprobación inicial. Solo descarga e instala cuando tú lo aceptas.
+La instalación conserva tus historias `.pkl` y `configuracion.json`, guarda
+una copia anterior y vuelve a abrir el programa.
+
+Si tienes la v3.1 o anterior, esta primera actualización es manual: guarda
+la historia y cierra el programa. Extrae el ZIP y sustituye el ejecutable,
+`_internal` y `LEEME.txt`, conservando las historias y la configuración.
