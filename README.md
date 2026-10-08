@@ -17,11 +17,11 @@ Microsoft Office. La exportación mediante Word necesita Microsoft Word instalad
 
 ## Descargar
 
-[Descargar Story Manager v3.2 para Windows de 64 bits](https://github.com/JoseTamayoMaluenda/story-manager-releases/releases/download/v3.2/Story_Manager_v3.2_Portable_windows_x64.zip)
+[Descargar Story Manager v3.2.1 para Windows de 64 bits](https://github.com/JoseTamayoMaluenda/story-manager-releases/releases/download/v3.2.1/Story_Manager_v3.2.1_Portable_windows_x64.zip)
 
 Extrae el ZIP completo en una carpeta y abre `Story Manager.exe`.
 
-[Novedades y archivos de comprobación de la v3.2](https://github.com/JoseTamayoMaluenda/story-manager-releases/releases/tag/v3.2)
+[Novedades y archivos de comprobación de la v3.2.1](https://github.com/JoseTamayoMaluenda/story-manager-releases/releases/tag/v3.2.1)
 
 Desde la v3.2, el programa comprueba las versiones nuevas al abrirse, sin
 bloquear el trabajo. Puedes comprobarlas también desde Archivo y desactivar
